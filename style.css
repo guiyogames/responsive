@@ -89,7 +89,7 @@ header {
 
 /* tablet view */
 
-@media (max-width: 781px) {
+@media (max-width: 885px) {
   .col {
     width: 45%;
   }
